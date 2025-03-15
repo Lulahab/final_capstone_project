@@ -1,0 +1,37 @@
+var1,var2,corr
+quarterly revenue,quarterly revenue,1.0
+quarterly revenue,quarterly_revenue_lag1,0.11450662504497025
+quarterly revenue,Views,-0.19882000555414636
+quarterly revenue,Views_lag1,0.2822953017619883
+quarterly revenue,abercrombie_total_quarterly_mean,0.39457265497265376
+quarterly revenue,trends_lag1,0.811203056943964
+quarterly_revenue_lag1,quarterly revenue,0.11450662504497025
+quarterly_revenue_lag1,quarterly_revenue_lag1,1.0
+quarterly_revenue_lag1,Views,0.4696442671163534
+quarterly_revenue_lag1,Views_lag1,-0.2399646190969571
+quarterly_revenue_lag1,abercrombie_total_quarterly_mean,0.3900413616843172
+quarterly_revenue_lag1,trends_lag1,0.3124568816649276
+Views,quarterly revenue,-0.19882000555414636
+Views,quarterly_revenue_lag1,0.4696442671163534
+Views,Views,1.0
+Views,Views_lag1,0.00812623780136176
+Views,abercrombie_total_quarterly_mean,0.21977882797419446
+Views,trends_lag1,0.09633649618515913
+Views_lag1,quarterly revenue,0.2822953017619883
+Views_lag1,quarterly_revenue_lag1,-0.2399646190969571
+Views_lag1,Views,0.00812623780136176
+Views_lag1,Views_lag1,1.0
+Views_lag1,abercrombie_total_quarterly_mean,0.14295336941816325
+Views_lag1,trends_lag1,0.18480457425925909
+abercrombie_total_quarterly_mean,quarterly revenue,0.39457265497265376
+abercrombie_total_quarterly_mean,quarterly_revenue_lag1,0.3900413616843172
+abercrombie_total_quarterly_mean,Views,0.21977882797419446
+abercrombie_total_quarterly_mean,Views_lag1,0.14295336941816325
+abercrombie_total_quarterly_mean,abercrombie_total_quarterly_mean,1.0
+abercrombie_total_quarterly_mean,trends_lag1,0.6894438963333838
+trends_lag1,quarterly revenue,0.811203056943964
+trends_lag1,quarterly_revenue_lag1,0.3124568816649276
+trends_lag1,Views,0.09633649618515913
+trends_lag1,Views_lag1,0.18480457425925909
+trends_lag1,abercrombie_total_quarterly_mean,0.6894438963333838
+trends_lag1,trends_lag1,1.0
